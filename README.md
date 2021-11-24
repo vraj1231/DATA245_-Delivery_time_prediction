@@ -49,3 +49,6 @@ is the mathematical representation of this function:
 𝑤ℎ𝑒𝑟𝑒 𝑃𝐸 = 0. 6 , 𝑃𝐿 = 0. 4 , 𝑁 = 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑟𝑒𝑐𝑜𝑟𝑑 𝑖𝑛 𝑑𝑎𝑡𝑎𝑠𝑒𝑡
 Likewise, Early and late shipments are the difference between actual date and the predicted
 date for the delivery
+
+![image](https://user-images.githubusercontent.com/60303995/143147945-f4f10c03-4e32-4ad6-a9d3-b62f00605390.png)
+
