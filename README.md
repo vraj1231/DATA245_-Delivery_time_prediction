@@ -1,4 +1,4 @@
-# DATA245_-Delivery_time_prediction
+# eBay Challenge_2021_-Delivery_time_prediction
 
 ### Abstract
 The pandemic has made the world gear towards a more digital world and greatly
